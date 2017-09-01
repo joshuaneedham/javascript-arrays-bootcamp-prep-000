@@ -7,7 +7,7 @@ function addElementToBeginningOfArray(array, element) {
 }
 
 function destructivelyAddElementToBeginningOfArray(array, element) {
-
+  var myArray = [1];
 }
 function addElementToEndOfArray(array, element) {
   var myArray = [1];
@@ -24,7 +24,7 @@ function accessElementInArray(array, index) {
 }
 function destructivelyRemoveElementFromBeginningOfArray(array) {
   var myArray = [1];
-  return myArray;
+
 }
 function removeElementFromBeginningOfArray(array) {
   var myArray = [1];
@@ -32,7 +32,6 @@ function removeElementFromBeginningOfArray(array) {
 }
 function destructivelyRemoveElementFromEndOfArray(array) {
   var myArray = [1];
-  return myArray;
 }
 function removeElementFromEndOfArray(array) {
   var myArray = [1];
