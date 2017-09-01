@@ -8,8 +8,6 @@ function addElementToBeginningOfArray(array, element) {
 
 function destructivelyAddElementToBeginningOfArray(array, element) {
   var myArray = [1];
-  myArray = ("foo", ...myArray);
-
 }
 function addElementToEndOfArray(array, element) {
 
