@@ -22,17 +22,16 @@ function destructivelyAddElementToEndOfArray(array, element) {
 }
 
 function accessElementInArray(array, index) {
-  array[index];
-  return array;
+  
 }
 
 function destructivelyRemoveElementFromBeginningOfArray(array) {
-
-
+  array.slice;
+  return array;
 }
 
 function removeElementFromBeginningOfArray(array) {
-
+  
 }
 
 function destructivelyRemoveElementFromEndOfArray(array) {
